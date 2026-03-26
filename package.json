@@ -1,0 +1,24 @@
+{
+  "name": "projeto-pessoal-1bimestre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beatriz-castro22/projeto-pessoal-1bimestre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Beatriz-castro22/projeto-pessoal-1bimestre/issues"
+  },
+  "homepage": "https://github.com/Beatriz-castro22/projeto-pessoal-1bimestre#readme",
+  "dependencies": {
+    "jest": "^30.3.0"
+  }
+}
